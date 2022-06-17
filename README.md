@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qndjd)](https://solved.ac/qndjd/)
 
