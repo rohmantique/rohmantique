@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
-br
-br
+<br>
+<br>
 </div>
 
 ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true)
