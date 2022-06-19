@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
 </div>
 
-br
 ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qndjd)](https://solved.ac/qndjd/)
