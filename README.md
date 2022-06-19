@@ -32,11 +32,13 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
+  
+  
+  ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true)
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qndjd)](https://solved.ac/qndjd/)
 </div>
 
-![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qndjd)](https://solved.ac/qndjd/)
 
 
 
