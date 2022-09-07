@@ -36,10 +36,13 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
+  <hr> 
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
   <br>
-  
-  
   ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true&theme=tokyonight)
+  <br>
+
 
 </div>
 
