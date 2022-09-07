@@ -1,7 +1,7 @@
 
 <div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Heejin%20Roh&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Heejin%20Roh&fontSize=70)
 <br>
 
 <div><h2>🛠 Tech Stacks</h1></div>
