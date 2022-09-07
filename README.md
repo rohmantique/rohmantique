@@ -39,7 +39,7 @@
   <br>
   
   
-  ![rohmantique's github stats](https://github-readme-stats.dark.app/api?username=rohmantique&show_icons=true)
+  ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true&theme=tokyonight)
 
 </div>
 
