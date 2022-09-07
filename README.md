@@ -39,7 +39,6 @@
   <hr> 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-  <br>
   ![rohmantique's github stats](https://github-readme-stats.vercel.app/api?username=rohmantique&show_icons=true&theme=tokyonight)
   <br>
 
